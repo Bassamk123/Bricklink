@@ -1,0 +1,34 @@
+Order_Number,Order_Date,Currency,Condition,Color,Description,Part_Number,Quantity,Original_Unit_Price,Overhead_Percentage,Overhead_Amount,Adjusted_Unit_Price,Original_Total,Adjusted_Total,Weight,Order_Subtotal,Shipping,Insurance,Additional_Charges,Credit,Grand_Total
+29062495,"Aug 9, 2025 20:56 Order Total: US $41.78",US,New,Light Bluish Gray,"Container, Box 2 x 2 x 1 - Top Opening with Raised Inner Bottom",Unknown,5,0.6,26.11,0.1567,0.7567,3.0,3.78,5.65g,41.78,7.92,0.0,2.99,0.0,51.59
+29062495,"Aug 9, 2025 20:56 Order Total: US $41.78",US,New,Black,Dish 8 x 8 Inverted (Radar) - Solid,22385pb292,5,2.448,26.11,0.6392,3.0872,12.24,15.44,22.60g,41.78,7.92,0.0,2.99,0.0,51.59
+29062495,"Aug 9, 2025 20:56 Order Total: US $41.78",US,New,Light Bluish Gray,"Tile, Round 1 x 1 with Black Gauge",98138pb175,10,0.039,26.11,0.0102,0.0492,0.39,0.49,1.20g,41.78,7.92,0.0,2.99,0.0,51.59
+29062495,"Aug 9, 2025 20:56 Order Total: US $41.78",US,New,Black,"Tile, Round 2 x 4 Oval with Vehicle",66857pb012,5,0.767,26.11,0.2003,0.9673,3.83,4.84,3.90g,41.78,7.92,0.0,2.99,0.0,51.59
+29062495,"Aug 9, 2025 20:56 Order Total: US $41.78",US,New,Trans-Clear,,5497,6,2.517,26.11,0.6572,3.1742,15.1,19.05,36.00g,41.78,7.92,0.0,2.99,0.0,51.59
+29062495,"Aug 9, 2025 20:56 Order Total: US $41.78",US,New,Trans-Clear,,5497,6,2.517,26.11,0.6572,3.1742,15.1,19.05,36.00g,41.78,7.92,0.0,2.99,0.0,51.59
+29102940,"Aug 14, 2025 17:43 Order Total: AU $23.62",AU,New,Trans-Clear,,7134,31,0.1501,25.4,0.0381,0.1882,4.65,5.83,19.53g,23.62,4.5,0.0,1.5,0.0,29.62
+29102940,"Aug 14, 2025 17:43 Order Total: AU $23.62",AU,New,Dark Azure,"Slope, Curved 1 x 2 with Bottom Stud",37352,30,0.054,25.4,0.0137,0.0677,1.62,2.03,18.90g,23.62,4.5,0.0,1.5,0.0,29.62
+29102940,"Aug 14, 2025 17:43 Order Total: AU $23.62",AU,New,Medium Nougat,"Slope, Curved 1 x 2 with Bottom Stud",37352,10,0.0975,25.4,0.0248,0.1223,0.97,1.22,6.30g,23.62,4.5,0.0,1.5,0.0,29.62
+29102940,"Aug 14, 2025 17:43 Order Total: AU $23.62",AU,New,Reddish Brown,"Slope, Curved 1 x 2 with Bottom Stud",37352,10,0.0208,25.4,0.0053,0.0261,0.21,0.26,6.30g,23.62,4.5,0.0,1.5,0.0,29.62
+29102940,"Aug 14, 2025 17:43 Order Total: AU $23.62",AU,New,Yellow,"Slope, Curved 1 x 2 with Bottom Stud",5841,30,0.1391,25.4,0.0353,0.1744,4.17,5.23,18.90g,23.62,4.5,0.0,1.5,0.0,29.62
+29102940,"Aug 14, 2025 17:43 Order Total: AU $23.62",AU,New,Yellow,,76797,24,0.312,25.4,0.0792,0.3912,7.49,9.39,31.92g,23.62,4.5,0.0,1.5,0.0,29.62
+29102940,"Aug 14, 2025 17:43 Order Total: AU $23.62",AU,New,Yellow,,76797,24,0.312,25.4,0.0792,0.3912,7.49,9.39,31.92g,23.62,4.5,0.0,1.5,0.0,29.62
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Red,"Barb / Claw / Horn / Tooth with Clip,",3171,30,0.071,10.85,0.0077,0.0787,2.13,2.36,10.20g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Reddish Brown,Bar 7 x 3 with 2 Open O Clips,5630,8,0.288,10.85,0.0312,0.3192,2.3,2.55,17.36g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Dark Tan,"Brick, Round 4 x 4 x 2/3 Dome Top",65138,16,0.419,10.85,0.0455,0.4645,6.7,7.43,29.12g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Black,Cylinder Half 2 x 4 x 5 with 1 x 2,85941,12,0.618,10.85,0.0671,0.6851,7.42,8.22,49.20g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Red,Cylinder Half 2 x 4 x 5 with 1 x 2,85941,12,0.616,10.85,0.0668,0.6828,7.39,8.19,49.20g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,White,Dish 4 x 4 Inverted (Radar) with Solid Stud with Bright Light Blue and,Unknown,2,1.799,10.85,0.1952,1.9942,3.6,3.99,2.66g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Black,Dish 8 x 8 Inverted (Radar) - Solid,3961pb15,11,2.784,10.85,0.3021,3.0861,30.62,33.95,49.72g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Dark Blue,Flag 4 x 1 Wave Right 4495b Dark,4495b,10,0.211,10.85,0.0229,0.2339,2.11,2.34,3.70g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Reddish Brown,"Minifigure, Weapon Holder Ring with 3 Bars and 3 Bar Holes (Ninjago",Unknown,20,0.593,10.85,0.0643,0.6573,11.86,13.15,12.00g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Dark Orange,,3021,40,0.132,10.85,0.0143,0.1463,5.28,5.85,37.20g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Medium Nougat,,3028,4,0.39,10.85,0.0423,0.4323,1.56,1.73,37.88g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Trans-Orange,"Plate, Modified 2 x 2 with Groove and",Unknown,50,0.107,10.85,0.0116,0.1186,5.35,5.93,26.00g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Trans-Orange,"Part No: 87580 Plate, Round 1 x 1 with Open Stud",85861,100,0.041,10.85,0.0044,0.0454,4.1,4.54,10.00g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Dark Azure,"Plate, Round Corner 5 x 5 Macaroni",80015,16,0.076,10.85,0.0082,0.0842,1.22,1.35,17.76g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Dark Blue,"Plate, Round Corner 5 x 5 Macaroni",80015,16,0.172,10.85,0.0187,0.1907,2.75,3.05,17.76g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,White,Slope 45 2 x 1 Double with Bottom,3044c,20,0.146,10.85,0.0158,0.1618,2.92,3.24,9.00g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Tan,Tile 1 x 2 with Reddish Brown Door with Dark Brown Edges and,Unknown,20,0.23,10.85,0.025,0.255,4.6,5.1,5.20g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Dark Blue,"Tile, Modified 1 x 3 Inverted with Hole",35459,30,0.131,10.85,0.0142,0.1452,3.93,4.36,14.40g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Pearl Gold,"Tile, Round 1 x 1 with Dark Orange Dragon and Dotted Circle on Gold",Unknown,20,0.466,10.85,0.0506,0.5166,9.32,10.33,2.20g,115.17,12.5,0.0,0.0,0.0,127.67
+29154233,"Aug 20, 2025 21:54 Order Total: AU $115.17",AU,New,Pearl Gold,"Tile, Round 1 x 1 with Dark Orange Dragon and Dotted Circle on Gold",Unknown,20,0.466,10.85,0.0506,0.5166,9.32,10.33,2.20g,115.17,12.5,0.0,0.0,0.0,127.67
